@@ -1,0 +1,32 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "Pizza-Hut",
+      "address": "Indore",
+      "rating": "4.5",
+      "email": "pizzahut@test.com"
+    },
+    {
+      "name": "Zomato",
+      "rating": "4.4",
+      "address": "Ujjain",
+      "email": "zomato@test.com",
+      "id": 2
+    },
+    {
+      "name": "GK",
+      "rating": "5",
+      "address": "Indore",
+      "email": "gk@test.com",
+      "id": 3
+    },
+    {
+      "name": "Uber",
+      "rating": "4.5",
+      "address": "Dewas",
+      "email": "uber@test.com",
+      "id": 4
+    }
+  ]
+}
